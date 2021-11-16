@@ -80,12 +80,3 @@ body {
     box-shadow: 0 0 0 0 rgba(124, 150, 216, 0);
   }
 }
-
-.map-container {
-  animation: fadeIn 7s;
-  -webkit-animation: fadeIn 7s;
-  -moz-animation: fadeIn 7s;
-  -o-animation: fadeIn 7s;
-  -ms-animation: fadeIn 7s;
-}
-
