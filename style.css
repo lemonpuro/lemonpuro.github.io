@@ -21,7 +21,7 @@ body {
 
 .map-container img {
   width: 100%;
-  min-width: 2500px;
+  min-width: 250px;
 }
 
 .map-container .point {
