@@ -81,3 +81,23 @@ body {
     box-shadow: 0 0 0 0 rgba(124, 150, 216, 0);
   }
 }
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
